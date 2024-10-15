@@ -101,4 +101,4 @@ function game() {
 }
 
 // Ajuste a velocidade do jogo
-setInterval(game, 100);
+setInterval(game, 80);
